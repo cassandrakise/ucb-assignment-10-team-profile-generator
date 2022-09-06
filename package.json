@@ -1,0 +1,20 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "AS A manager I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^28.1.3"
+  }
+}
