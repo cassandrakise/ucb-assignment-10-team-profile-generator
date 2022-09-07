@@ -11,7 +11,7 @@ function render(team) {
           
           <body>
             <section class="section">
-              <div class="container">
+              <div class="container">n
                 <div class="card">
                   <div class="card-content">
                     <div class="media-content">
