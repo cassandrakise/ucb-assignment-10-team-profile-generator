@@ -7,7 +7,7 @@ const path = require("path");
 const fs = require("fs");
 const team = [];
 
-const render = require("./lib/htmlRenderer");
+const render = require("./htmlRenderer");
 
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "profiles.html");
