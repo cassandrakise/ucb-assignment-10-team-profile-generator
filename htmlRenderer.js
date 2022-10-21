@@ -17,7 +17,7 @@ function render(team) {
               </div>
             </header>
             <div class="container">
-              <div class="columns is-centered is-multiline is-4">
+              <div class="columns is-centered is-multiline is-4 mt-4">
               ${renderCard(team)}
               </div>
             </div>
@@ -50,11 +50,14 @@ function renderCard(team) {
     let card = `
     <div class="column is-3">
       <div class="card">
-        <header class="card-header has-background-danger-light">
-         <p class="card-header-title">
-          <h2 class="has-text-weight-bold">${team[i].name}</h2>
-          <h3>${team[i].getRole()}</h3>
-        </p>
+        <header class="card-header is-align-content-start has-background-danger-light">
+         <div class="card-header-title">
+          <p class="has-text-weight-bold">
+            ${team[i].name}
+          <br/>
+          ${team[i].getRole()}
+         </p>
+        </div>
           <span class="card-header-icon">👤</span>
         </header>
       <div class="card-content">
