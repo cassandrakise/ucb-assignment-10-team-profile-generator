@@ -5,13 +5,14 @@ This assignment also includes a generate profile and html renderer that asks eac
 
 This assignment was created by Cassandra Kise for UCB's Fall 2022 Part-time Full Stack Web Developer Program.
 
-## Video recording for this assignment:
+## Screenshots:
+![Screenshot](/images/assignment10_screenshot01.jpg)
+![Screenshot](/images/assignment10_screenshot02.jpg)
 
-## Screenshots for this assignment:
-![Screenshot]()
-![Screenshot]()
+## Video recording:
+https://watch.screencastify.com/v/eV8Mv6tSVsD3IpQ2xvZq
 
-## Here are the GitHub links for this assignment:
+## Here are the GitHub links for this repo:
 - https://github.com/cassandrakise/ucb-assignment-10-team-profile-generator
 - https://cassandrakise.github.io/ucb-assignment-10-team-profile-generator/
 
